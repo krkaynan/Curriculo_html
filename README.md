@@ -1,0 +1,1 @@
+Este projeto é um modelo de currículo profissional desenvolvido utilizando HTML e CSS. O objetivo é criar uma página simples e visualmente atraente para exibir informações de forma clara e profissional. O design é responsivo, garantindo que o currículo seja visualizado corretamente em dispositivos móveis e desktop.
